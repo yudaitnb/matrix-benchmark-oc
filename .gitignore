@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Benchmark result
+results.csv
+*.png
+
+# Editor/IDE specific
+*.swp
+*.swo
+*.bak
+*~
+.DS_Store
+.vscode/
+.idea/
+
+# Jupyter (if ever used)
+.ipynb_checkpoints/

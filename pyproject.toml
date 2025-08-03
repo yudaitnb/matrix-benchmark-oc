@@ -1,0 +1,7 @@
+[project]
+name = "matrix-benchmark"
+version = "0.1.0"
+
+[project.dependencies]
+numpy = "*"
+matplotlib = "*"
