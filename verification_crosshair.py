@@ -1,5 +1,8 @@
 from typing import List
 
+# オラクル的仕様
+# 中身をよく見ると実質的には3重ループを書いているのと同じ。
+# これは「数学的に検証された実装」だと思いましょう、というストーリーで使用した。
 def spec_matmul(A: List[List[int]], B: List[List[int]]) -> List[List[int]]:
     l = len(A)
     m = len(A[0])
