@@ -35,7 +35,6 @@ $ uv pip install numpy matplotlib
 
 ## ベンチマーク
 ```shell
-$ uv
 $ python3 benchmark.py
 ```
 `matmul_blocked_omp_tuning.c`はRyzen 7950Xに最適化しているので、エラーが出る可能性が高いです。
