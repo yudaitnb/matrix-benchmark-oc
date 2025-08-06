@@ -1,4 +1,4 @@
-# プログラミング言語を科学する -表現する、処理する、証明する- 
+# プログラミング言語を科学する —表現する、処理する、証明する— 
 [発表資料など](https://prg.is.titech.ac.jp/ja/news/tanabe-presents-research-introduction-at-open-campus-2025/)
 
 本リポジトリでは発表中に使用した全てのプログラムを保管しています。
