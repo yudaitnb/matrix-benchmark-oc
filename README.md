@@ -39,7 +39,7 @@ $ python3 benchmark.py
 ```
 `matmul_blocked_omp_tuning.c`はRyzen 7950Xに最適化しているので、エラーが出る可能性が高いです。
 
-その後、以下でグラフを出力します。
+その後、以下でグラフを出力します。私の環境で計測したグラフが[ここ](https://github.com/yudaitnb/matrix-benchmark-oc/tree/main/result)に入っています。
 ```shell
 $ python3 plot.py
 ```
